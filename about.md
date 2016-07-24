@@ -4,8 +4,6 @@ permalink: /about/index.html
 title: About Bruno Belcastro
 description: This is the personal website of Bruno Belcastro, where you can find posts, photos and ocassional ramblings and rants.
 tags: [about, bruno belcastro, pixel2html, about me]
-image: 
-				london-westminster-sunset.jpg
 ---
 
 Hello there! 
