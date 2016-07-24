@@ -3,7 +3,7 @@ layout: post-light-feature
 title: Hello World
 description: "Fresh start of my website using Jekyll and hosted on Github Pages"
 categories: articles
-date: 2016-07-23
+date: 2016-07-01
 image: 
         feature: london-westminster-sunset.jpg
 ---
