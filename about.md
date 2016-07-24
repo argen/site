@@ -16,4 +16,4 @@ I’m a **CoFounder** at [Pixel2HTML](http://pixel2html.com) where we help peopl
 
 I enjoy doing a lot of things, some of them are: travelling, taking photographs with my cameras, watching movies, discovering new music, being a coffee nerd and reading great books. 
 
-I have a list of [places I’ve visited and others I wanna go here](/travel),I think that travelling is a really good thing for doing a bucket list.
+I have a list of [places I’ve visited and others I wanna go here]({{ site.url }}/travel),I think that travelling is a really good thing for doing a bucket list.
