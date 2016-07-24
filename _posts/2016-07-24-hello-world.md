@@ -5,7 +5,7 @@ description: "Fresh start of my website using Jekyll and hosted on Github Pages"
 categories: articles
 date: 2016-07-23
 image: 
-        feature: soft-trees.jpg
+        feature: london-westminster-sunset.jpg
 ---
 
-Hello humans, migrated from Tumblr to Jekyll hosted on GitHub Pages.
+Hello humans, migrated from my old [Tumblr](http://argen.tumblr.com/) to this site generated with [Jekyll](https://jekyllrb.com/) hosted on [GitHub Pages](https://pages.github.com/).
