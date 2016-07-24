@@ -30,8 +30,8 @@ opengraph:
 links:
   - title: About
     url: /about
-    external: true
-  - title: My Company
+    external: false
+  - title: Pixel2HTML
     url: http://Pixel2HTML.com
     external: true
 
