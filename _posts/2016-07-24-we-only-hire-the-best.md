@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: We only hire the best
-categories: articles
+categories: articles, external-links,
 date: 2016-07-24
 ---
 
