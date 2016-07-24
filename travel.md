@@ -9,12 +9,12 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 ### America
 
 * ~~Buenos Aires~
-* Ushuaia
-* Santiago de Chile
-* New York
-* Washington D.C.
-* San Francisco
-* Miami
+* ~~Ushuaia~~
+* ~~Santiago de Chile~~
+* ~~New York~~
+* ~~Washington D.C.~~
+* ~~San Francisco~~
+* ~~Miami~~
 * Chicago
 * Los Angeles
 * Seattle
@@ -28,18 +28,19 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 
 ### Europe
 
-* Paris
-* London
-* Berlin
-* Barcelona
-* Amsterdam
-* Madrid
-* Faro
-* Cannes
-* Monaco
-* Geneve
-* Oxford
-* Cambridge
+* ~~Paris~~
+* ~~London~~
+* ~~Berlin~~
+* ~~Barcelona~~
+* ~~Amsterdam~~
+* ~~Madrid~~
+* ~~Faro~~
+* ~~Cannes~~
+* ~~Monaco~~
+* ~~Geneve~~
+* ~~Oxford~~
+* ~~Cambridge~~
+* ~~Brighton~~
 * Rome
 * Milan
 * Florence
@@ -51,7 +52,7 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 * Porto
 * Istanbul
 * Stockholm
-* Prague
+* ~~Prague~~
 * Oslo
 * Brussels
 * Dublin
