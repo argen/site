@@ -8,7 +8,7 @@ tags: [about, bruno belcastro, pixel2html, about me]
 
 Hello there! 
 
-![Bruno Belcastro Photo](https://cldup.com/wP_2ATY2DY.jpg)
+![Bruno Belcastro Photo]({{ site.url }}/images/bruno-belcastro-avatar-sq.jpg)
 
 My name is Bruno Belcastro Pinto, I’m currently living in **London, United Kingdom**. 
 
