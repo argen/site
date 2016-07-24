@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /about/index.html
 title: About Bruno Belcastro
 description: This is the personal website of Bruno Belcastro, where you can find posts, photos and ocassional ramblings and rants.
