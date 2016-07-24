@@ -6,9 +6,9 @@ description: This is the personal website of Bruno Belcastro, where you can find
 tags: [about, bruno belcastro, pixel2html, about me]
 ---
 
-![Bruno Belcastro Photo](https://cldup.com/wP_2ATY2DY.jpg)
-
 Hello there! 
+
+![Bruno Belcastro Photo](https://cldup.com/wP_2ATY2DY.jpg)
 
 My name is Bruno Belcastro Pinto, I’m currently living in **London, United Kingdom**. 
 
