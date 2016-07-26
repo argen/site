@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: The lack of options for options (for startup employees)
-categories: articles, external-links
+categories: external-links
 date: 2016-07-07
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: You know what? Fuck Dropdowns
-categories: articles, videos,
+categories: videos
 date: 2016-07-25
 ---
 
