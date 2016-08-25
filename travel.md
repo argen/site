@@ -61,7 +61,7 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 * Brussels
 * Dublin
 * Liverpool
-* Manchester
+* ~~Manchester~~
 * Copenhagen
 * Edinburgh
 * North York Moors
