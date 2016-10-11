@@ -46,7 +46,7 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 * ~~Prague~~
 * Valencia
 * Sevilla
-* Rome
+* ~~Rome~~
 * Milan
 * Florence
 * Venice
