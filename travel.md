@@ -15,7 +15,7 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 * ~~Washington D.C.~~
 * ~~San Francisco~~
 * ~~Miami~~
-* ~~~Rio de Janeiro~~
+* ~~Rio de Janeiro~~
 * Chicago
 * Los Angeles
 * Seattle
@@ -32,7 +32,7 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 * ~~Paris~~
 * ~~London~~
 * ~~Berlin~~
-* ~~Vienna~
+* ~~Vienna~~
 * ~~Barcelona~~
 * ~~Amsterdam~~
 * ~~Madrid~~
