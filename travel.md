@@ -50,7 +50,7 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 * ~~Rome~~
 * Milan
 * Florence
-* Venice
+* ~~Venice~~
 * Naples
 * Moscow
 * Munich
