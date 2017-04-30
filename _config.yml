@@ -1,13 +1,13 @@
 title:            Bruno Belcastro
 tagline:          My personal website.
-description:      Personal website of Bruno Belcastro. CoFounder of Pixel2HTML and interested in photography, design, arts and coffee.
+description:      Personal website of Bruno Belcastro. CEO of Pixel2HTML and interested in photography, design, arts and coffee.
 canonical: 
 
 # Owner/author information
 owner:
   name:           Bruno Belcastro
   avatar:         avatar.jpg
-  bio:            "CoFounder at Pixel2HTML"
+  bio:            "CEO at Pixel2HTML"
   email:          bbelcastro@gmail.com
   twitter:        argen
   github:         argen
@@ -22,7 +22,7 @@ tools:
 
 # Open Graph customization
 opengraph:
-  locale:           en_US
+  locale:           en_UK
 
 # Links to include in top navigation
 # For external links add external: true

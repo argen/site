@@ -26,6 +26,8 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 * Havana
 * Turks & Caicos
 * Hawaii
+* Havana
+* Varadero
 
 ### Europe
 
@@ -54,8 +56,10 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 * Naples
 * Moscow
 * Munich
+* Hamburg
 * ~~Lisbon~~
 * Porto
+* Azores
 * Istanbul
 * Stockholm
 * Oslo
@@ -63,7 +67,7 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 * Dublin
 * Liverpool
 * ~~Manchester~~
-* Copenhagen
+* ~~Copenhagen~~
 * ~~Edinburgh~~
 * North York Moors
 * UK's Lake District
@@ -71,6 +75,8 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 ### Asia
 
 * Tokyo
+* Osaka
+* Hiroshima
 * Dubai
 * Hong Kong
 * Singapore
