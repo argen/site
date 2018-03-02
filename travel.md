@@ -50,9 +50,11 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 * Valencia
 * Sevilla
 * ~~Rome~~
-* Milan
-* Florence
+* ~~Milan~~
+* ~~Florence~~
 * ~~Venice~~
+* ~~Como~~
+* ~~Malaga~~
 * Naples
 * Moscow
 * Munich
@@ -71,12 +73,13 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 * ~~Edinburgh~~
 * North York Moors
 * UK's Lake District
+* ~~Dubrovnik~~
 
 ### Asia
 
-* Tokyo
-* Osaka
-* Hiroshima
+* ~~Tokyo~~
+* ~~Kyoto~~
+* ~~Hiroshima~~
 * Dubai
 * Hong Kong
 * Singapore
