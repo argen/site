@@ -10,10 +10,10 @@ Hello there!
 
 ![Bruno Belcastro Photo]({{ site.url }}/images/bruno-belcastro-avatar-sq.jpg)
 
-My name is Bruno Belcastro Pinto, I’m currently living in **London, United Kingdom**. 
+My name is Bruno Belcastro Pinto, I’m currently living in **London, United Kingdom**.
 
-I’m a **CoFounder** at [Pixel2HTML](http://pixel2html.com) where we help people with their front-end coding needs. Previously I worked at Edelman doing digital communications for clients like Starbucks, Samsung and Diageo. 
+I recently left a company that I co-founded called "Pixel2HTML", I'm now taking some time off and focusing on finding what's next for me. You can find more about my career on my [LinkedIn Profile](https://www.linkedin.com/in/brunobelcastro/).
 
-I enjoy doing a lot of things, some of them are: travelling, taking photographs with my cameras, watching movies, discovering new music, being a coffee nerd and reading great books. 
+I enjoy doing a lot of things, some of them are: traveling, taking photographs with my cameras, watching movies, discovering new music, being a coffee nerd and reading great books. 
 
-I have a list of [places I’ve visited and others I wanna go here]({{ site.url }}/travel),I think that travelling is a really good thing for doing a bucket list.
+I have a list of [places I’ve visited and others I wanna go here]({{ site.url }}/travel).

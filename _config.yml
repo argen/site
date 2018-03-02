@@ -7,7 +7,6 @@ canonical:
 owner:
   name:           Bruno Belcastro
   avatar:         avatar.jpg
-  bio:            "CEO at Pixel2HTML"
   email:          bbelcastro@gmail.com
   twitter:        argen
   github:         argen
@@ -30,9 +29,6 @@ links:
   - title: About
     url: /about
     external: false
-  - title: Pixel2HTML
-    url: http://Pixel2HTML.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
