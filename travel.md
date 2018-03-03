@@ -23,12 +23,10 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 * Toronto
 * New Orleans
 * Las Vegas
-* Havana
 * Turks & Caicos
 * Hawaii
 * Havana
 * Varadero
-* Havana
 
 ### Europe
 
