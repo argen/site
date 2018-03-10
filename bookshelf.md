@@ -20,4 +20,4 @@ I find the Kindle to be better than a tablet for reading for different reasons s
 * Highlighting and Bookmarking accessibly via [Goodreads](https://www.goodreads.com/)
 * Great for travel (carry more than 1 book in the same device/space) 
 
-I tend to do a lot of reading whilst on airplanes, so the combination of all those features are great for me. Also please don't think for a second that 
+I tend to do a lot of reading whilst on airplanes, so the combination of all those features are great for me. Also please don't think for a second that I don't read printed books. I have several, but I tend to avoid buying them nowadays since storage or portability is an issue. I also had to give away a lot of them when I moved from Buenos Aires to London, so I tend to favor e-books nowadays.
