@@ -1,6 +1,6 @@
 title:            Bruno Belcastro
 tagline:          My personal website.
-description:      Personal website of Bruno Belcastro. CEO of Pixel2HTML and interested in photography, design, arts and coffee.
+description:      Personal website of Bruno Belcastro. Interested in digital products, photography, design, art and coffee.
 canonical: 
 
 # Owner/author information
@@ -30,7 +30,7 @@ links:
     url: /about
     external: false
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
 future:      true
 highlighter: rouge
