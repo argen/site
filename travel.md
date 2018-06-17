@@ -9,91 +9,91 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 ### America
 
 * ~~Buenos Aires~~
-* ~~Ushuaia~~
-* ~~Santiago de Chile~~
-* ~~New York~~
-* ~~Washington D.C.~~
-* ~~San Francisco~~
-* ~~Miami~~
-* ~~Rio de Janeiro~~
 * Chicago
-* Los Angeles
-* Seattle
-* Montreal
-* Toronto
-* New Orleans
-* Las Vegas
-* Turks & Caicos
-* Hawaii
 * Havana
+* Hawaii
+* Las Vegas
+* Los Angeles
+* ~~Miami~~
+* Montreal
+* New Orleans
+* ~~New York~~
+* ~~Rio de Janeiro~~
+* ~~San Francisco~~
+* Santiago de Chile
+* Seattle
+* Toronto
+* Turks & Caicos
+* ~~Ushuaia~~
 * Varadero
+* ~~Washington D.C.~~
 
 ### Europe
 
-* ~~Paris~~
-* ~~London~~
-* ~~Berlin~~
-* ~~Vienna~~
-* ~~Barcelona~~
 * ~~Amsterdam~~
-* ~~Madrid~~
-* ~~Faro~~
-* ~~Cannes~~
-* ~~Monaco~~
-* ~~Geneve~~
-* ~~Oxford~~
-* ~~Cambridge~~
+* Azores
+* ~~Barcelona~~
+* ~~Berlin~~
 * ~~Brighton~~
-* ~~York~~
-* ~~Prague~~
-* ~~Malaga~~
-* Valencia
-* Sevilla
-* ~~Rome~~
-* ~~Milan~~
-* ~~Florence~~
-* ~~Venice~~
+* ~~Brussels~~
+* ~~Cambridge~~
+* ~~Cannes~~
 * ~~Como~~
-* Naples
+* ~~Copenhagen~~
+* ~~Cyprus~~
+* Dublin
+* ~~Dubrovnik~~
+* ~~Edinburgh~~
+* ~~Faro~~
+* ~~Florence~~
+* ~~Geneve~~
+* Hamburg
+* Istanbul
+* ~~Lisbon~~
+* Liverpool
+* ~~London~~
+* ~~Madrid~~
+* ~~Malaga~~
+* Manchester
+* ~~Milan~~
+* ~~Monaco~~
 * Moscow
 * Munich
-* Hamburg
-* ~~Lisbon~~
-* Porto
-* Azores
-* Istanbul
-* Stockholm
-* Oslo
-* ~~Brussels~~
-* Dublin
-* Liverpool
-* ~~Manchester~~
-* ~~Copenhagen~~
-* ~~Edinburgh~~
+* Naples
 * North York Moors
+* Oslo
+* ~~Oxford~~
+* ~~Paris~~
+* Porto
+* ~~Prague~~
+* ~~Rome~~
+* Sevilla
+* Stockholm
 * UK's Lake District
-* ~~Dubrovnik~~
-* ~~Cyprus~~
+* Valencia
+* ~~Venice~~
+* ~~Vienna~~
+* ~~York~~
 
 ### Asia
 
-* ~~Tokyo~~
-* ~~Kyoto~~
-* ~~Hiroshima~~
-* Dubai
-* Hong Kong
-* Singapore
 * Bangkok
+* Dubai
+* ~~Hiroshima~~
+* Hong Kong
+* ~~Kyoto~~
 * Phuket
+* Singapore
+* ~~Tokyo~~
 
 ### Africa
 
+* Cairo
 * Cape Town
 * Morocco
-* Cairo
 
 ### Oceania
 
-* Sydney
-* Melbourne
 * Auckland
+* Melbourne
+* Sydney

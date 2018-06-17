@@ -14,6 +14,6 @@ My name is Bruno Belcastro Pinto, I’m currently living in **London, United Kin
 
 I recently left a company that I co-founded called "Pixel2HTML", I'm now taking some time off and focusing on finding what's next for me. If you are interested in working together or are curious about my career, do check my [LinkedIn Profile](https://www.linkedin.com/in/brunobelcastro/) (and say hi!).
 
-I enjoy doing a lot of things, some of them are: traveling, taking photographs with [Fuji XPRO2](https://amzn.to/2KLuuBK), watching movies, discovering new music and going to gigs, being a coffee nerd and reading great books. 
+I enjoy doing a lot of things, some of them are: traveling, taking photographs with [Fuji XPRO2](https://amzn.to/2KLuuBK), watching movies, discovering new music, going to gigs, being a coffee nerd and reading great books. 
 
 I have a list of [places I’ve visited and others I wanna go here]({{ site.url }}/travel).
