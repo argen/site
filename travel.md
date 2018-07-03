@@ -78,7 +78,7 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 ### Asia
 
 * Bangkok
-* Dubai
+* ~Dubai~~
 * ~~Hiroshima~~
 * Hong Kong
 * ~~Kyoto~~
