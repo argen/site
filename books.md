@@ -17,11 +17,17 @@ So I thought to myself: Why not make a list that's publicly available so anyone 
 * [**Option B**](https://amzn.to/2A4Msib): Facing Adversity, Building Resilience, and Finding Joy, by Sheryl Sandberg and Adam Grant
 * [**Shoe Dog**](https://amzn.to/2LC1bWf): A Memoir by the Creator of NIKE, by Phil Knight
 * [**Radical Candor**:](https://amzn.to/2A4N8UL) Be a Kick-Ass Boss Without Losing Your Humanity by Kim Scott
+* [**Getting to Yes**](https://amzn.to/2N683Mm): Negotiating an agreement without giving in by Roger Fisher and William Ury
+* [**When to jump**](https://amzn.to/2MKNhT2): If the Job You Have Isn't the Life You Want by Mike Lewis
 * [**Creativity, Inc.**](https://amzn.to/2LAronZ): Overcoming the Unseen Forces That Stand in the Way of True Inspiration by Ed Catmull
 
-### Books I'm planning to read:
+### Books I intend to read:
 
-* [**Tools Of Titans**](https://amzn.to/2LknlNq): The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers by Tim Ferriss
+* [**Give and Take**](https://amzn.to/2ovB460): A Revolutionary Approach to Success by Adam Grant
 * [**Hooked**](https://amzn.to/2OetxV1): How to Build Habit-Forming Products by Nir Eyal
 * [**Jobs to be Done**](https://amzn.to/2A7FoBn): Theory to Practice by Anthony W. Ulwick
 * [**Lean In**](https://amzn.to/2LhasUe): Women, Work, and the Will to Lead by Sheryl Sandberg
+* [**Tools Of Titans**](https://amzn.to/2LknlNq): The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers by Tim Ferriss
+* [**Crucial Conversations**](https://amzn.to/2C6KAGq): Tools for Talking When Stakes Are High by Kerry Patterson, Joseph Grenny, Ron McMillan and Al Switzler
+* [**Games People Play**](https://amzn.to/2owzuBa): The Psychology of Human Relationships by Eric Berne
+* [**Thinking, fast and slow**](https://amzn.to/2NEdgIk) by Daniel Kahneman

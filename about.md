@@ -20,4 +20,6 @@ I enjoy doing a lot of things, some of them are: traveling, taking photographs w
 
 I have a list of [places I’ve visited and others I wanna go here]({{ site.url }}/travel).
 
+I've also enjoy reading (mostly non-fiction), so I have started a [list of books I've read and intend to read]({{ site.url }}/books).
+
 If you are ever in London, feel free to ping me and we can arrange to meet over a cup of coffee/tea or a pint. I always enjoy meeting new people and help them if there's any advice I can give.
