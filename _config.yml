@@ -7,13 +7,12 @@ description: > # this means to ignore newlines until "show_excerpts:"
   and links about technology, design, product management and photography.
 
 show_excerpts: false # set to true to show excerpts on the homepage
+google_analytics: UA-59829316-1
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
   - about.md
-
-google_analytics: UA-59829316-1
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -21,22 +20,21 @@ minima:
   date_format: "%b %-d, %Y"
   skin: classic
 
-  # generate social links in footer
+# generate social links in footer
   social_links:
     twitter: argen
-    # github:  jekyll
+    github:  argen
+    instagram: argen
+    linkedin: brunobelcastro
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    instagram: argen
-    linkedin: brunobelcastro
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
     # youtube_channel_name: CloudCannon
     # telegram: jekyll
-    # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
 
