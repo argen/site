@@ -1,5 +1,5 @@
 ---
-layout: post-light-feature
+layout: post
 title: We only hire the best
 categories: external-links
 date: 2016-07-24

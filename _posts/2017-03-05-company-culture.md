@@ -1,5 +1,5 @@
 ---
-layout: post-light-feature
+layout: post
 title: Culture and Revolution
 categories: videos
 date: 2017-03-05

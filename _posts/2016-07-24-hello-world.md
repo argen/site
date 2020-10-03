@@ -1,5 +1,5 @@
 ---
-layout: post-light-feature
+layout: post
 title: Hello World
 description: "Fresh start of my website using Jekyll and hosted on Github Pages"
 categories: articles

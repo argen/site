@@ -1,5 +1,5 @@
 ---
-layout: post-light-feature
+layout: post
 title: You know what? Fuck Dropdowns
 categories: videos
 date: 2016-07-25

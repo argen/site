@@ -48,7 +48,7 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 * ~~Florence~~
 * ~~Geneve~~
 * Hamburg
-* Istanbul
+* ~~Istanbul~~
 * ~~Lisbon~~
 * Liverpool
 * ~~London~~
@@ -80,7 +80,8 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 * Bangkok
 * ~~Dubai~~
 * ~~Hiroshima~~
-* Hong Kong
+* ~~Hong Kong~~
+* ~~Osaka~
 * ~~Kyoto~~
 * Phuket
 * Singapore

@@ -1,63 +1,62 @@
-title:            Bruno Belcastro
-tagline:          My personal website.
-description:      Personal website of Bruno Belcastro. Interested in digital products, photography, design, art and coffee.
-canonical: 
+title: Bruno Belcastro
+author:
+  name: Bruno Belcastro
+  email: iam@brunobelcastro.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  This is the personal site of Bruno Belcastro, where you can find articles
+  and links about technology, design, product management and photography.
 
-# Owner/author information
-owner:
-  name:           Bruno Belcastro
-  avatar:         avatar.jpg
-  email:          iam@brunobelcastro.com
-  twitter:        argen
-  github:         argen
-  instagram:      argen
-  disqus:         bbelcastro
-  location:       "London, UK"
-  # Plug in your disqus shortname!
+show_excerpts: false # set to true to show excerpts on the homepage
 
-tools:
-  standards:      "HTML, SCSS, Jekyll"
-  software:       "git"
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+  - about.md
 
-# Open Graph customization
-opengraph:
-  locale:           en_UK
+google_analytics: UA-59829316-1
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: About
-    url: /about
-    external: false
-  - title: Books
-    url: /books
-    external: false
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+  skin: classic
 
-# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/London
-future:      true
-highlighter: rouge
-markdown:    kramdown
+  # generate social links in footer
+  social_links:
+    twitter: argen
+    # github:  jekyll
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    instagram: argen
+    linkedin: brunobelcastro
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
 
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
 
-sass:
-    style: :compressed
+# Build settings
+theme: minima
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
