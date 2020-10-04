@@ -7,6 +7,8 @@ tags: [about, bruno belcastro, product management]
 ---
 ## Who is this guy anyway?
 
+![Bruno Belcastro Avatar](/assets/images/bruno-about.jpg)
+
 Hello there visitor. I'm __Bruno Belcastro Pinto__, nice to meet you 👋🏼
 
 I first discovered the web in the late 90's when a friend showed me a _cool chat thing_ called [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) that we could access using his 56 kbp/s. I immediately fell in love with it. From there on, I self-taught myself some web design and web development in the form of HTML and CSS and also spend countless hours chatting online with people from all over the world about mIRC scripting, Linux, web design, photoshop and a myriad of other things. I am grateful to have met a lot of great friends on-line, and I even also [started a company](https://pixel2html.com) with people I've met online.
