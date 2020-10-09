@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My journey with photography
-categories: article, photography, film
+categories: photography
 description: My journey through photography across the years, from points and shoots to dSLRs to coming back to film.
 date: 2020-10-09
 ---
