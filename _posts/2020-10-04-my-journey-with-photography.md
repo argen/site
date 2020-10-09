@@ -3,6 +3,7 @@ layout: post
 title: My journey with photography
 categories: photography
 description: My journey through photography across the years, from points and shoots to dSLRs to coming back to film.
+image: /assets/images/social-image.png
 date: 2020-10-09
 ---
 
