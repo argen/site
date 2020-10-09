@@ -1,9 +1,7 @@
 ---
 layout: page
-permalink: /books/index.html
+permalink: /books/
 title: Book Recommendations
-image:
-  feature: books.jpg
 description: This is a list of books (in no particular order) I have either read or plan to read in the near future.
 tags: [books, bruno belcastro, reading list, amazon, reading, kindle, self-improvement]
 ---
