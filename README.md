@@ -1,6 +1,6 @@
 # brunobelcastro.com
 
-Personal site of Bruno Belcastro
+Personal site of Bruno Belcastro.
 Blog about technology, product management, photography and anything that interests me.
 
 ## Built using
