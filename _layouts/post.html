@@ -31,6 +31,10 @@ layout: default
     {{ content }}
   </div>
 
+  <div style="float:right;">
+    {% include share-buttons.html %}
+  </div>
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
