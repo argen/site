@@ -2,9 +2,6 @@
 layout: post
 title: "This post demonstrates post content styles"
 categories: junk
-author:
-- Bart Simpson
-- Nelson Mandela Muntz
 meta: "Springfield"
 ---
 
@@ -86,6 +83,10 @@ In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla e
 2. Second item, dawg
 3. Third item, what what?!
 4. Fourth item, fo sheezy my neezy
+
+Something with a footnote[^1].
+
+[^1]: Well lucky for you, I've included more information in footnote form.
 
 
 
