@@ -5,6 +5,7 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   This is the personal site of Bruno Belcastro, where you can find articles
   and links about technology, design, product management and photography.
+permalink: /:categories/:title:output_ext
 
 show_excerpts: false # set to true to show excerpts on the homepage
 google_analytics: UA-59829316-1
