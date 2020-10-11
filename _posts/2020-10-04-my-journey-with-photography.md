@@ -9,7 +9,7 @@ date: 2020-10-09
 
 _A brief trip down a very visual memory lane._
 
-I believe my first interaction with photography may have been around the age of 6 or 7. I remember going to the local labb to drop/pickup film with my grandpa and how excited I would get to see the pictures he took of our family gatherings or during our holidays. He used to shoot with an [**Olympus Trip 35**](https://en.wikipedia.org/wiki/Olympus_Trip_35), which I happily inherited from him.
+I believe my first interaction with photography may have been around the age of 6 or 7. I remember going to the local lab to drop/pickup film with my grandpa and how excited I would get to see the pictures he took of our family gatherings or during our holidays. He used to shoot with an [**Olympus Trip 35**](https://en.wikipedia.org/wiki/Olympus_Trip_35), which I happily inherited from him.
 
 Fast forward to my teen years, I had several point and shoot cameras. I remember owning a neon green [**Concord 110EF**](http://camera-wiki.org/wiki/Concord_110EF) and also shooting with [**Polaroid I-Zone**](https://camerapedia.fandom.com/wiki/Polaroid_I-Zone) too.
 
