@@ -2,7 +2,7 @@
 layout: post
 title: An intro to theme-based product roadmaps
 categories: product-management
-description: How to leverage theme-based product roadmaps to better communicate your strategy.
+description: How to use theme-based product roadmaps to better communicate your product strategy.
 image: /assets/images/social-image.png
 date: 2020-10-17
 canonical_url: https://delivery.p.ota.to/post/an-intro-to-theme-based-product-roadmaps-4q4zh3pn3ws/
