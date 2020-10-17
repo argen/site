@@ -10,6 +10,10 @@
   {%- endif -%}
 
   {%- include custom-head.html -%}
-  <link rel="canonical" href="{{ page.url | prepend: site.url }}">
-  
+
+  {% if page.canonical_url != nil %}
+  <link rel="canonical" href="{{ page.canonical_url }}"/>
+  {% else %}
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  {% endif %}  
 </head>
