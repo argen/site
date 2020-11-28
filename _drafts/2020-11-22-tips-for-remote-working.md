@@ -51,15 +51,22 @@ As you introduce and experiment with changes to your work and daily life, it's a
 
 ### More than business
 
+One thing I do miss quite a bit from working from an office with other people is the ambiance. Before we all had to work from our homes this year, going to the office for me was a synonym of seeing people I really enjoy spending time with apart from the work we do. We'd have lunch together, play pool or just casually hang out drinking a beer a the end of the week talking about anything that we could think of.
+
+Recreating that same ambiance over a video call or chat it's very hard. Even when you try and do some fun activities, it's just not the same. I also sometimes struggle with feeling motivated about spending time at the end of the day in yet-another-video-call, even if it's just not about work.
+
+But this is probably a very personal thing. Some people like to be left alone, and not bothered so may be thriving from their homes. Some people need to be in the middle of a busy environment and love working in person so may be [feeling super isolated](https://www.theguardian.com/money/2020/jul/14/end-of-the-office-the-quiet-grinding-loneliness-of-working-from-home) right now. There's no right or wrong, and not one size fits all solution here.
+
+I would recommend that, if possible and you and other people are up to it, you try to spend some time chatting with other people about things that aren't work related. It can be with your colleagues or it can be a call with a friend that you haven't seen in a while.
+
+This year I found out about a Swedish tradition called [Fika](https://en.wikipedia.org/wiki/Coffee_culture#Sweden). Fika is a social institution in Sweden, so they take a mid-morning or mid-afternoon break with a beverage and snack usually at work or sharing the moment with someone else. Here in the UK they [have a cuppa](https://www.urbandictionary.com/define.php?term=a%20cuppa). Whatever helps you keep in touch and pause for a moment, right?
 
 
 #### Additional resources
 
-Note:
+https://m.signalvnoise.com/how-to-build-social-connection-in-a-remote-team/ 
 
-
-During the retro I remember people mentioning that they were struggling a bit with meeting fatigue and finding time to focus (I am too!). Earlier this year I've read a book that really help me with time management, it's called Make Time https://maketime.blog/articles/ (written by the same guy that wrote the Design Sprint). Their site also has great tips and blog posts in case you don't fancy reading the book.
-
+https://maketime.blog/articles/
 
 https://basecamp.com/remote-resources
 
