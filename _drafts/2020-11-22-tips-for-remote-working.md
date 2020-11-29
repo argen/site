@@ -13,7 +13,7 @@ Having worked remotely for about 7 years, I learnt (sometimes the hard way) many
 
 ### Own your time
 
-> Make space and design your days for the things that really matter.
+> Make time and design the days for the things that really matter to you
 
 Ever got to 5pm on the day and realise you haven't started any of the work you wanted or needed to do? I've been there too.
 
@@ -27,7 +27,7 @@ A good time to start on this, is before you start a new week. Take a look at you
 
 ### Async-first
 
-> Use real-time communication sometimes, but favour asynchronous communication most of the time.
+> Favour asynchronous communication most of the time, and use real-time communication sometimes
 
 What does that mean? The next time you open your calendar app and try to add something or think "we should have a meeting to..." **STOP**. Really think if you need to discuss this in a video call or real-time meeting. Can't this meeting be an email? Or maybe a Slack thread or Direct Message that your colleagues can follow up on their own time. Meetings should be your last resort, not the first option.
 
@@ -36,6 +36,8 @@ Meetings are also expensive for your company. Four people in a meeting for an ho
 Changing the way you communicate with others (especially with people that are not in your same timezone) can help both you and them to own their time too.
 
 ### Explore the great outdoors
+
+> Get some fresh air, be active and interact with people outside your home office
 
 Go outside! No, seriously. Regularly getting out of your room/house and experiencing a change of scenery (whenever possible, I know we are in the middle of pandemic now) will massively help you feel better. I'm speaking from experience here. Whenever I'm a bit too anxious or need a bit of a boost I go for a walk. Just the feeling of fresh air in the face makes me feel better. Being stuck in front of a computer all day will drain your energy a lot. Try to move and stretch about one time every hour, and if you can go for a walk at least a day that's even better.
 
@@ -47,9 +49,13 @@ Another term I've heard people started mentioning again this year was the [fake 
 
 ### Get feedback
 
+> It's a two way street
+
 As you introduce and experiment with changes to your work and daily life, it's always get to get feedback from others. Maybe some of the things you are doing are impacting your team in a way you didn't anticipated. Or you need to explain the boundaries of your office so your family understands when is your focus time and avoid coming into that room. It's always good to keep tabs with the new things you are doing, and make sure that whatever you are doing it's helping you but also doesn't cause a massive inconvenience to other people around you.
 
 ### More than business
+
+> All work and no play...
 
 One thing I do miss quite a bit from working from an office with other people is the ambiance. Before we all had to work from our homes this year, going to the office for me was a synonym of seeing people I really enjoy spending time with apart from the work we do. We'd have lunch together, play pool or just casually hang out drinking a beer a the end of the week talking about anything that we could think of.
 
@@ -64,10 +70,12 @@ This year I found out about a Swedish tradition called [Fika](https://en.wikiped
 
 #### Additional resources
 
-https://m.signalvnoise.com/how-to-build-social-connection-in-a-remote-team/ 
+- [How to build social connection in a remote team](https://m.signalvnoise.com/how-to-build-social-connection-in-a-remote-team/)
 
-https://maketime.blog/articles/
+- [Make Time Book and Blog](https://maketime.blog/articles/)
 
-https://basecamp.com/remote-resources
+- [Basecamp's Remote Resources](https://basecamp.com/remote-resources)
 
-https://basecamp.com/guides/how-we-communicate
+- [Remote: Office not required (book)](https://smile.amazon.co.uk/Remote-Required-David-Heinemeier-Hansson-ebook/dp/B00CZ7OC46)
+
+- [Gitlab's Remote Guides](https://about.gitlab.com/company/culture/all-remote/guide/)
