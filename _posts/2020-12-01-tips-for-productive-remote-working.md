@@ -7,9 +7,7 @@ image: /assets/images/social-image.png
 date: 2020-12-01
 ---
 
-It's no secret that this is the _work from home year_ for most of us. COVID-19 has substantially accelerated the rate in which people working _"9 to 5 office jobs"_ started working from their homes and/or remote locations without physically being in the same room with their colleagues.
-
-Having worked remotely for about 7 years, I learnt (sometimes the hard way) many things that helped me collaborate and get things done with different people all over the world. In this article I want to share some of these with you. I'm hoping it will help you improve the way in which you work and collaborate during your day to day.
+It’s no secret that this is the _work from home year_ for most of us. Having worked remotely for 7+ years, I learnt (sometimes the hard way) many things that helped me collaborate and get work done with different people all over the world. Whilst your current situation may not be the same as mine, I want to share some of the practices that helped me with you. I'm hoping it will help you improve the way in which you work and collaborate during your day to day.
 
 ### Own your time
 
