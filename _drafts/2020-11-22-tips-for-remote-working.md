@@ -2,7 +2,7 @@
 layout: post
 title: My tips for productive remote working
 categories: productivity
-description: TBD
+description: Tips about working remotely and from home that I've learnt over 7+ years of doing so.
 image: /assets/images/social-image.png
 date: 2020-12-01
 ---
