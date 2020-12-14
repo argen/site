@@ -3,8 +3,7 @@ author:
   name: Bruno Belcastro
   email: iam[at]brunobelcastro.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  This is the personal site of Bruno Belcastro, where you can find articles
-  and links about technology, design, product management and photography.
+  Personal site, articles and links about technology, design, product management and photography.
 permalink: /:categories/:title:output_ext
 
 show_excerpts: false # set to true to show excerpts on the homepage
