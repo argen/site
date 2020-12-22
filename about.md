@@ -19,7 +19,7 @@ I enjoy doing a lot of things, some of them are: traveling, shooting photos with
 
 I have a list of [places I’ve visited and others I wanna go here]({{ site.url }}/travel).
 
-I've also enjoy reading (mostly non-fiction), so I have started a [list of books I've read and intend to read]({{ site.url }}/books). If you are looking for more recommendations, here's a [list of gear and software I use]({{ site.url }}/stack)
+I've also enjoy reading (mostly non-fiction), so I have started a [list of books I've read and intend to read]({{ site.url }}/books). If you are looking for more recommendations, here's a [list of gear and software I use]({{ site.url }}/stack).
 
 ### Standing invitation
 
