@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JTBD Four Forces – The reasons behind hiring and firing
-categories: product-management, jobs-to-be-done, strategy, discovery
+categories: product-management
 description: A deep dive into the reasons behind hiring and firing products
 image: /assets/images/social-image.png
 date: 2022-09-01

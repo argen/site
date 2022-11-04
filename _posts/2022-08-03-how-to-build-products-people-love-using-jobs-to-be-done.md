@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to build products people love using Jobs-to-be-Done
-categories: product-management, jobs-to-be-done, strategy, discovery
+categories: product-management
 description: An introduction to jobs to be done (JTBD) for product managers
 image: /assets/images/social-image.png
 date: 2022-08-03
