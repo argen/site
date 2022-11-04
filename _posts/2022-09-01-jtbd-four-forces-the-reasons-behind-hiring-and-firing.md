@@ -6,6 +6,7 @@ description: A deep dive into the reasons behind hiring and firing products
 image: /assets/images/social-image.png
 date: 2022-09-01
 canonical_url: https://delivery.p.ota.to/post/jtbd-four-forces-the-reasons-behind-hiring-and-firing-4qwfp7jccjw/
+---
 
 In my [latest post](https://brunobelcastro.com/product-management,/jobs-to-be-done,/strategy,/discovery/how-to-build-products-people-love-using-jobs-to-be-done.html), I discussed how to build products people love using Jobs-to-be-Done, a theory that provides a framework to help uncover your customers' needs.
 
