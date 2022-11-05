@@ -5,9 +5,8 @@ title: About Me
 description: This is the personal website of Bruno Belcastro, where you can find posts, photos and occasional ramblings and rants.
 tags: [about, bruno belcastro, product management]
 ---
-## Who is this guy anyway?
 
-![Bruno Belcastro Avatar](/assets/images/bruno-about.jpg)
+![Bruno Belcastro Avatar](/assets/images/bruno-about.webp)
 
 Hello there visitor. I'm __Bruno Belcastro Pinto__, nice to meet you 👋🏼
 
