@@ -50,11 +50,11 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 * Hamburg
 * ~~Istanbul~~
 * ~~Lisbon~~
-* Liverpool
+* ~~Liverpool~~
 * ~~London~~
 * ~~Madrid~~
 * ~~Malaga~~
-* Manchester
+* ~~Manchester~~
 * ~~Milan~~
 * ~~Monaco~~
 * Moscow
@@ -70,7 +70,7 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 * Sevilla
 * Stockholm
 * UK's Lake District
-* Valencia
+* ~~Valencia~~
 * ~~Venice~~
 * ~~Vienna~~
 * ~~York~~

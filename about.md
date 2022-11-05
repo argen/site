@@ -16,7 +16,7 @@ Nowadays, I spend most of my days working as a Product Lead at [Potato](https://
 
 I enjoy doing a lot of things, some of them are: traveling, shooting photos with different types of cameras _(analog and digital)_, watching movies, discovering new music, going to music gigs and being a coffee nerd.
 
-I have a list of [places I’ve visited and others I wanna go here]({{ site.url }}/travel).
+I have a list of [places I’ve visited, and others I wanna go to here]({{ site.url }}/travel).
 
 I've also enjoy reading (mostly non-fiction), so I have started a [list of books I've read and intend to read]({{ site.url }}/books). If you are looking for more recommendations, here's a [list of gear and software I use]({{ site.url }}/stack).
 
