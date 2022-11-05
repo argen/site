@@ -81,7 +81,7 @@ tags: [trips, bruno belcastro, bucket-list, travel, cities, world, explore]
 * ~~Dubai~~
 * ~~Hiroshima~~
 * ~~Hong Kong~~
-* ~~Osaka~
+* ~~Osaka~~
 * ~~Kyoto~~
 * Phuket
 * Singapore
