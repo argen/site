@@ -12,7 +12,7 @@ Hello there visitor. I'm __Bruno Belcastro Pinto__, nice to meet you 👋🏼
 
 I first discovered the web in the late 90's when a friend showed me a _cool chat thing_ called [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) that we could access using his 56 kb/s. I immediately fell in love with it. From there on, I self-taught myself some web design and web development in the form of HTML and CSS and also spend countless hours chatting online with people from all over the world about mIRC scripting, Linux, web design, photoshop and a myriad of other things. I am grateful to have met a lot of great friends on-line, and I even also [started a company](https://www.linkedin.com/company/pixel2html/) with people I've met online.
 
-Nowadays, I spend most of my days building products at [Clear Channel](https://www.clearchanneleurope.com/) in London. If you are interested in working together or you are curious about my career, go check my [LinkedIn Profile](https://www.linkedin.com/in/brunobelcastro/).
+Nowadays, I spend most of my days building digital products in London. If you are interested in working together or you are curious about my career, go check my [LinkedIn Profile](https://www.linkedin.com/in/brunobelcastro/).
 
 I enjoy doing a lot of things, some of them are: traveling, shooting photos with different types of cameras _(analog and digital)_, watching movies, discovering new music, going to music gigs and being a coffee nerd.
 
